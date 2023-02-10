@@ -1,5 +1,5 @@
 
-**Stack-Overflow-Data-Analysis-Term-Project-SENG-550**
+#Stack-Overflow-Data-Analysis-Term-Project-SENG-550
 
 Stack Overflow is a forum website that allows users to both ask technical questions and reply with answers to questions asked by other users. 
 This project uses a limited selection of Stack Overflow questions and responses to build and train a Linear Regression model to predict the 
