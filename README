@@ -1,1 +1,5 @@
 README
+
+Stack Overflow is a forum website that allows users to both ask technical questions and reply with answers to questions asked by other users. 
+This project uses a limited selection of Stack Overflow questions and responses to build and train a Linear Regression model to predict the 
+expected time for an answer to a question to be posted
